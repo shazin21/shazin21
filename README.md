@@ -17,11 +17,11 @@
 ---
 
 ### 🚀 **Projects**
-#### 🔹 [Conversational AI for PDF Search](https://github.com/shazinansari/pdf-ai-chatbot)  
+#### 🔹 [Conversational AI for PDF Search](https://github.com/shazinansari/pdf-ai-chatbot](https://github.com/shazin21/Multiple-Disease-Prediction)
 - Built an **AI chatbot** that retrieves information from PDFs using **RAG (Retrieval-Augmented Generation)**  
 - Implemented **query ranking and relevance optimization**  
 
-#### 🔹 [Multiple Disease Prediction System](https://github.com/shazinansari/disease-prediction)  
+#### 🔹 [Multiple Disease Prediction System](https://github.com/shazin21/Multiple-Disease-Prediction)  
 - Built a **Django-based prediction model** with **92% accuracy**  
 
 ---
