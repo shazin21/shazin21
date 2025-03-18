@@ -17,7 +17,7 @@
 ---
 
 ### 🚀 **Projects**
-#### 🔹 [Conversational AI for PDF Search](https://github.com/shazinansari/pdf-ai-chatbot)  
+#### 🔹 [Conversational AI for PDF Search](https://github.com/shazin21/Mental-Health-ChatBOT)  
 - Built an **AI chatbot** that retrieves information from PDFs using **RAG (Retrieval-Augmented Generation)**  
 - Implemented **query ranking and relevance optimization**  
 
