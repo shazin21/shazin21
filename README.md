@@ -11,7 +11,7 @@
 ### 📌 **About Me**
 - 🔭 I’m currently working as a **Data Science Intern** at Future Optima IT Solutions  
 - 💡 Interested in **LLMs, Generative AI, and AI-powered search**  
-- 📚 Learning **Golang (Gin Framework) and PostgreSQL with PgVector**  
+- 📚 Currently learning **advanced NLP, prompt engineering, and deep learning techniques** 
 - 🎯 Building AI-powered applications with **LangChain, NLP, and ML models**  
 
 ---
