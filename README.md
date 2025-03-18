@@ -1,16 +1,44 @@
-## Hi there 👋
+### 👋 Hi, I'm Shazin Ansari  
 
-<!--
-**shazin21/shazin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Data Science Engineer | Python Developer | Machine Learning Enthusiast**  
 
-Here are some ideas to get you started:
+🔹 Passionate about **AI-powered applications, NLP, and search optimization**  
+🔹 Experienced in **Python, Machine Learning, Deep Learning, SQL, and LangChain**  
+🔹 Skilled in **Query Ranking, Personalization, and AI-based Search Systems**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 **About Me**
+- 🔭 I’m currently working as a **Data Science Intern** at Future Optima IT Solutions  
+- 💡 Interested in **LLMs, Generative AI, and AI-powered search**  
+- 📚 Learning **Golang (Gin Framework) and PostgreSQL with PgVector**  
+- 🎯 Building AI-powered applications with **LangChain, NLP, and ML models**  
+
+---
+
+### 🚀 **Projects**
+#### 🔹 [Conversational AI for PDF Search](https://github.com/shazinansari/pdf-ai-chatbot)  
+- Built an **AI chatbot** that retrieves information from PDFs using **RAG (Retrieval-Augmented Generation)**  
+- Implemented **query ranking and relevance optimization**  
+
+#### 🔹 [Multiple Disease Prediction System](https://github.com/shazinansari/disease-prediction)  
+- Built a **Django-based prediction model** with **92% accuracy**  
+
+---
+
+### 🛠 **Tech Stack**
+🚀 **Languages:** Python, SQL  
+📊 **ML & AI:** TensorFlow, Scikit-learn, LangChain, Hugging Face  
+🗄 **Databases:** PostgreSQL, PgVector
+🌍 **Tools & Cloud:** Docker, Streamlit, Git
+
+---
+
+### 📫 **Let's Connect!**
+💼 [LinkedIn](https://linkedin.com/in/shazinansari)  
+📧 [Email](mailto:shazinansari1@gmail.com)  
+🔗 [GitHub](https://github.com/shazin21)  
+
+---
+
+
