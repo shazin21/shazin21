@@ -17,13 +17,25 @@
 ---
 
 ### 🚀 **Projects**
-#### 🔹 [Conversational AI for PDF Search](https://github.com/shazin21/Mental-Health-ChatBOT)  
+#### 🔹 [Conversational AI for PDF Search](https://github.com/shazin21/Conversational-Chatbot-using-LLM)  
 - Built an **AI chatbot** that retrieves information from PDFs using **RAG (Retrieval-Augmented Generation)**  
 - Implemented **query ranking and relevance optimization**  
 
 #### 🔹 [Multiple Disease Prediction System](https://github.com/shazin21/Multiple-Disease-Prediction)  
 - Built a **Django-based prediction model** with **92% accuracy**  
 
+#### 🔹 [Attendance System using FaceAI](https://github.com/shazin21/Attendance-using-Face-Recognition-AI)  
+- Developed an **AI-powered attendance system** using **Face Recognition**  
+- Implemented **OpenCV + Deep Learning** for real-time face detection & recognition  
+- Designed a **GUI-based application** for easy usability in schools & workplaces
+
+
+#### 🔹 [Mental Health Chatbot](https://github.com/shazin21/Mental-Health-ChatBOT)  
+- Developed an **AI-powered chatbot** providing **mental health support**  
+- Implemented **NLP-based conversation flow** to understand and respond empathetically  
+- Achieved **90% accuracy** in detecting user intent and providing relevant mental health resources  
+- Built using **Python, Flask, and Transformer-based NLP models**  
+- 
 ---
 
 ### 🛠 **Tech Stack**
